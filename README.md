@@ -1,6 +1,7 @@
 # Turborepo starter
 
 This is an official starter Turborepo.
+Follow the instructions to run this code on your machine
 
 ## Using this example
 
